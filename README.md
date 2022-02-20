@@ -17,3 +17,4 @@
     <img align="right" alt="Calebe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/944873964327534595/944874901330886697/Webp.net-gifmaker.gif?width=371&height=371">
 </div>
 
+![Snake animation](https://github.com/Calebe005/Calebe005/blob/output/github-contribution-grid-snake.svg)
