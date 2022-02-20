@@ -1,16 +1,19 @@
-### Hi there 👋
+### Oi, me chamo Calebe Walisson e sou Dev iniciante
 
-<!--
-**Calebe005/Calebe005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Técnico em Desenvolvimento de Sistemas - em formação
+  - Estudando HTML, CSS e JS atualmente
+  - Tenho 18 anos
+  - Contato pelo e-mail calebewalisson05@gmail.com
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Calebe005">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Calebe005&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div>
+  <a href = "mailto:calebewalisson05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/calebe-walisson-9098781aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <img align="right" alt="Calebe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/944873964327534595/944874901330886697/Webp.net-gifmaker.gif?width=371&height=371">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
