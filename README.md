@@ -1,8 +1,7 @@
 ### Oi, me chamo Calebe Walisson e sou Dev iniciante
 
-  - Técnico em Desenvolvimento de Sistemas - em formação
   - Estudando HTML, CSS e JS atualmente
-  - Tenho 18 anos
+  - Tenho 19 anos
   - Contato pelo e-mail calebewalisson05@gmail.com
 
 <div align="center">
