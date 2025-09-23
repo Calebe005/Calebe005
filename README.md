@@ -1,18 +1,51 @@
-### Oi, me chamo Calebe Walisson e sou Dev iniciante
+# 👋 Olá, eu sou Calebe005!
 
-  - Estudando HTML, CSS e JS atualmente
-  - Tenho 21 anos
-  - Contato pelo e-mail calebewalisson05@gmail.com
+🎨 **Desenvolvedor Web** Apaixonado por games e desafios.
+💻 **Skills:** HTML, CSS, JavaScript, TypeScript, React, Node.js, Git, Figma, Firebase, jQuery  
+🎮 **Interesses:** Games  
+🚀 Programador motivado por desafios e inovação.
 
-<div align="center">
-  <a href="https://github.com/Calebe005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Calebe005&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  <div>
-  <a href = "mailto:calebewalisson05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/calebe-walisson-9098781aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <img align="right" alt="Calebe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/944873964327534595/944874901330886697/Webp.net-gifmaker.gif?width=371&height=371">
-</div>
+---
 
+## 🛠️ Tecnologias & Ferramentas
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+
+---
+
+## 🌟 Sobre mim
+
+Programador junior sempre em busca de conhecimento e a criação de projetos inovadores.
+
+---
+
+## 💻 Projetos em destaque
+
+- [PizzaNobre](https://github.com/Calebe005/PizzaNobre) — Landing page para pizzaria
+- [LandingPageNubank](https://github.com/Calebe005/LandingPageNubank) — Página inspirada no Nubank
+
+
+---
+
+## 📊 Estatísticas & Widgets
+
+![Calebe005's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calebe005&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calebe005&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Calebe005&color=blue&style=flat)
+
+---
+
+## 📱 Redes Sociais
+
+- Instagram: [@calebe__wl](https://instagram.com/calebe__wl)
+
+## 🚀 Motivação
+
+> "Programador motivado pela criatividade e dedicação."
+
+---
