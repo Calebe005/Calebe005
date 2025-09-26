@@ -16,8 +16,7 @@ Sou um programador júnior com foco em desenvolvimento web. Gosto de transformar
 
 ## 💻 Tecnologias & Ferramentas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calebe005&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calebe005&theme=radical)
 
 **Principais habilidades:**
 
