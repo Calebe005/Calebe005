@@ -33,7 +33,7 @@ Sou um programador júnior com foco em desenvolvimento web. Gosto de transformar
 
 ## 🚀 Projetos em destaque
 
-- 🍕 [PizzaNobre](https://github.com/Calebe005/PizzaNobre) — Landing page moderna para pizzaria  
+- 🍕 [PizzaNobre](https://github.com/Calebe005/PizzaNobre) — Projeto de um site de pedidos de uma Pizzaria 
 - 💳 [LandingPageNubank](https://github.com/Calebe005/LandingPageNubank) — Página inspirada no design do Nubank
 
 ---
