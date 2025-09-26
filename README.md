@@ -1,6 +1,4 @@
-Claro, Calebe! Aqui está uma versão aprimorada e mais profissional do seu README para o GitHub, mantendo seu estilo pessoal e destacando suas habilidades e projetos de forma mais envolvente:
 
----
 
 # 👋 Olá, eu sou Calebe!  
 ![Profile Views](https://komarev.com/ghpvc/?username=Calebe005&color=blue&style=flat)
