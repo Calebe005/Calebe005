@@ -20,7 +20,7 @@ Sou um programador júnior com foco em desenvolvimento web. Gosto de transformar
 
 **Principais habilidades:**
 
-- 🧩 HTML, CSS, JavaScript, Git  
+- 🧩 HTML, CSS, JavaScript, Git, MySQL
 - 🎨 Figma (UI/UX Design)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
