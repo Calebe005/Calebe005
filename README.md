@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou Calebe!  
 ![Profile Views](https://komarev.com/ghpvc/?username=Calebe005&color=blue&style=flat)
 
-🎨 **Desenvolvedor Web Front-End** apaixonado por tecnologia, games e desafios criativos.  
+🎨 **Desenvolvedor Web** apaixonado por tecnologia, games e desafios criativos.  
 🚀 Sempre em busca de inovação, aprendizado contínuo e projetos que causem impacto.
 
 ---
