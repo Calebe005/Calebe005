@@ -35,6 +35,10 @@ Sou um desenvolvedor Full-Stack Junior focado em criar aplicações web completa
 * **Expandindo meus horizontes (Estudando atualmente):** Node.js, React e TypeScript.
 
 ---
+## 🏆 Conquistas e linguagens
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Calebe005&theme=tokyonight&no-frame=true&margin-w=10&animation=true)
+
 
 ## 🚀 Projetos em Destaque
 
