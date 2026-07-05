@@ -37,7 +37,7 @@ Sou um desenvolvedor Full-Stack Junior focado em criar aplicações web completa
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 
 ---
 
