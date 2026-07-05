@@ -24,8 +24,6 @@ Sou um desenvolvedor Full-Stack Junior focado em criar aplicações web completa
 
 ## 💻 Tecnologias & Ferramentas
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calebe005&theme=radical)
-
 <br />
 
 <div align="center">
@@ -42,6 +40,8 @@ Sou um desenvolvedor Full-Stack Junior focado em criar aplicações web completa
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calebe005&theme=radical)
 
 ## 🚀 Projetos em Destaque
 
