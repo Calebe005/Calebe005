@@ -1,8 +1,9 @@
 # 👋 Olá! Eu sou o Calebe Walisson
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Calebe005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Calebe" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&theme=radical&hide_long_generated=true" alt="Linguagens mais usadas" height="180px" />
+  <!-- Estatísticas do GitHub Corrigidas -->
+  <img src="https://github-readme-stats.vercel.com/api?username=Calebe005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Calebe" height="180px" />
+  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=Calebe005&layout=compact&theme=radical&hide_long_generated=true" alt="Linguagens mais usadas" height="180px" />
 </div>
 
 <br />
@@ -55,8 +56,14 @@ Sou um desenvolvedor Full-Stack Junior focado em criar aplicações web completa
 
 ### 📱 Vamos nos conectar?
 
-* 📸 **Instagram:** [@calebe__wl](https://instagram.com/calebe__wl)
-* 💼 **LinkedIn:** [Calebe Walisson](https://www.linkedin.com/in/calebe-dev-12609438b/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/calebe-dev-12609438b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Bagde" />
+  </a>
+  <a href="https://instagram.com/calebe__wl" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+</div>
 
 ---
 
