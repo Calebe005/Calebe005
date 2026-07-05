@@ -6,7 +6,6 @@
 
 <br />
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 🚀 **Desenvolvedor Full-Stack Junior & UI/UX Designer** 📍 Baseado em João Pessoa - Paraíba, Brasil.  
 💭 *"Transformando café em interfaces modernas e soluções funcionais de ponta a ponta."*
@@ -35,6 +34,10 @@ Sou um desenvolvedor Full-Stack Junior focado em criar aplicações web completa
 
 * **No meu ecossistema principal:** HTML5, CSS3, JavaScript (ES6+), MySQL, Git, Figma (UI/UX Design).
 * **Expandindo meus horizontes (Estudando atualmente):** Node.js, React e TypeScript.
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 ---
 
