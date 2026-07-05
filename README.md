@@ -5,6 +5,7 @@
 </div>
 
 <br />
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 🚀 **Desenvolvedor Full-Stack Junior & UI/UX Designer** 📍 Baseado em João Pessoa - Paraíba, Brasil.  
 💭 *"Transformando café em interfaces modernas e soluções funcionais de ponta a ponta."*
@@ -35,7 +36,6 @@ Sou um desenvolvedor Full-Stack Junior focado em criar aplicações web completa
 * **Expandindo meus horizontes (Estudando atualmente):** Node.js, React e TypeScript.
 
 ---
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🚀 Projetos em Destaque
 
