@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou o Calebe Walisson
 
 <div align="center">
-  <!-- Estatísticas do GitHub Corrigidas -->
-  <img src="https://github-readme-stats.vercel.com/api?username=Calebe005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Calebe" height="180px" />
-  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=Calebe005&layout=compact&theme=radical&hide_long_generated=true" alt="Linguagens mais usadas" height="180px" />
+  <!-- Opção 2: Estatísticas Detalhadas e Streak de Commits -->
+  <img src="https://github-readme-stats.vercel.com/api?username=Calebe005&show_icons=true&theme=radical&count_private=true&hide_title=false&hide_rank=false" alt="Estatísticas Gerais de Calebe" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Calebe005&theme=radical" alt="Sequência de Commits - Streak" height="180px" />
 </div>
 
 <br />
