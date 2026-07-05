@@ -5,6 +5,7 @@
 </div>
 
 <br />
+
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 🚀 **Desenvolvedor Full-Stack Junior & UI/UX Designer** 📍 Baseado em João Pessoa - Paraíba, Brasil.  
