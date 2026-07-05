@@ -1,9 +1,8 @@
 # 👋 Olá! Eu sou o Calebe Walisson
 
 <div align="center">
-  <!-- Opção 2: Estatísticas Detalhadas e Streak de Commits -->
-  <img src="https://github-readme-stats.vercel.com/api?username=Calebe005&show_icons=true&theme=radical&count_private=true&hide_title=false&hide_rank=false" alt="Estatísticas Gerais de Calebe" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Calebe005&theme=radical" alt="Sequência de Commits - Streak" height="180px" />
+  <!-- Banner Animado com Efeito de Digitação (100% Estável) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5376&center=true&vCenter=true&width=500&lines=Full-Stack+Junior+Developer;UI%2FUX+Designer;Focado+no+Pr%C3%B3ximo+N%C3%ADvel;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 </div>
 
 <br />
