@@ -1,9 +1,10 @@
 # 👋 Olá! Eu sou o Calebe Walisson
 
 <div align="center">
-  <!-- Estatísticas do GitHub Corrigidas -->
-  <img src="https://github-readme-stats.vercel.com/api?username=Calebe005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Calebe" height="180px" />
-  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=Calebe005&layout=compact&theme=radical&hide_long_generated=true" alt="Linguagens mais usadas" height="180px" />
+  <!-- Badges de Métricas do GitHub estáveis e limpas -->
+  <img src="https://img.shields.io/github/followers/Calebe005?label=Seguidores&style=for-the-badge&color=8a2be2" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/Calebe005?label=Stars%20Totais&style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/Calebe005/CRUD-lab?label=CRUD%20Lab%20Size&style=for-the-badge&color=blue" alt="Tamanho do CRUD Lab" />
 </div>
 
 <br />
@@ -29,7 +30,7 @@ Sou um desenvolvedor Full-Stack Junior focado em criar aplicações web completa
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-#### **Expandindo meus horizontes (Estudando atualmente):**
+#### **Expandindo meus horizons (Estudando atualmente):**
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,24 +47,10 @@ Sou um desenvolvedor Full-Stack Junior focado em criar aplicações web completa
 
 ---
 
-### 📈 Minha Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Calebe005&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📱 Vamos nos conectar?
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/calebe-dev-12609438b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Bagde" />
-  </a>
-  <a href="https://instagram.com/calebe__wl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-</div>
+* 📸 **Instagram:** [@calebe__wl](https://instagram.com/calebe__wl)
+* 💼 **LinkedIn:** [Calebe Walisson](https://www.linkedin.com/in/calebe-dev-12609438b/)
 
 ---
 
