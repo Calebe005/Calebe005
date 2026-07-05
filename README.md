@@ -1,72 +1,65 @@
+# 👋 Olá! Eu sou o Calebe Walisson
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Calebe005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Calebe" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&theme=radical&hide_long_generated=true" alt="Linguagens mais usadas" height="180px" />
+</div>
 
-# 👋 Olá, eu sou Calebe!  
-![Profile Views](https://komarev.com/ghpvc/?username=Calebe005&color=blue&style=flat)
+<br />
 
-🎨 **Desenvolvedor Web** apaixonado por tecnologia, games e desafios criativos.  
-🚀 Sempre em busca de inovação, aprendizado contínuo e projetos que causem impacto.
-
----
-
-## 🧠 Sobre mim
-
-Sou um programador júnior com foco em desenvolvimento web. Gosto de transformar ideias em interfaces funcionais e atraentes. Curioso por natureza, estou sempre explorando novas ferramentas e linguagens para evoluir como desenvolvedor.
+🚀 **Desenvolvedor Full-Stack Junior & UI/UX Designer** 📍 Baseado em João Pessoa - Paraíba, Brasil.  
+💭 *"Focado no próximo nível, transformando café em interfaces modernas e soluções funcionais de ponta a ponta."*
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+### 🧠 Sobre Mim
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe005&layout=compact&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calebe005&theme=radical)
-
-**Principais habilidades:**
-
-- 🧩 HTML, CSS, JavaScript, Git, MySQL
-- 🎨 Figma (UI/UX Design)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+Sou um desenvolvedor Full-Stack Junior focado em criar aplicações web completas, intuitivas e eficientes. Minha paixão é unir a lógica sólida do Back-End com a criatividade e refinamento visual do Front-End. Cuido de todo o ciclo de vida de uma aplicação: desde a concepção de protótipos no Figma, modelagem do banco de dados, até a escrita final do código estruturado. Estou em constante evolução no ecossistema JavaScript e arquiteturas escaláveis.
 
 ---
 
-## 🚀 Projetos em destaque
+### 💻 Tecnologias & Ferramentas
 
-- 🍕 [PizzaNobre](https://github.com/Calebe005/PizzaNobre) — Projeto de um site de pedidos de uma Pizzaria 
-- 💳 [API de Login NODEJS]((https://github.com/Calebe005/API-de-Login-em-NODE-JS)) — API de login 1.0v
-  
----
+#### **No meu ecossistema principal:**
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 Estatísticas
-
-![Calebe005's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calebe005&show_icons=true&theme=radical)
-
----
-
-## 🎮 Interesses
-
-- Games 🎮  
-- Design de interfaces  
-- Desenvolvimento de aplicações web  
-- Comunidades de tecnologia
-
----
-## 📚 Estudando:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
----
-
-## 📱 Redes Sociais
-
-- 📸 Instagram: [@calebe__wl](https://instagram.com/calebe__wl)
+#### **Expandindo meus horizontes (Estudando atualmente):**
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-## ✨ Motivação
+### 🚀 Projetos em Destaque
 
-> “A criatividade é o combustível da minha jornada como desenvolvedor. Cada linha de código é uma oportunidade de inovar.”
+* 🧪 **[CRUD lab](https://github.com/Calebe005/CRUD-lab)** — Laboratório focado em operações fundamentais de persistência de dados. Projeto prático que consolida conceitos de manipulação, validação e gerenciamento de registros em aplicações dinâmicas de forma estruturada.
+* 🍕 **[PizzaNobre](https://github.com/Calebe005/PizzaNobre)** — Sistema de pedidos para uma pizzaria, desenvolvido originalmente durante o curso de Programador de Sistemas no SENAC.
+* 🏖️ **[ProjetoPeNaAreia](https://github.com/Calebe005/ProjetoPeNaAreia)** — Desenvolvimento de site e aplicativo integrado focado na experiência do cliente para o quiosque "Pé na Areia", na orla de Tambaú (João Pessoa).
+* 💳 **[LandingPageNubank](https://github.com/Calebe005/LandingPageNubank)** — Redesign e conceito visual aplicando boas práticas de UI/UX e alta fidelidade visual.
+* 👥 **[RemakePageLoginDevCommunity](https://github.com/Calebe005/RemakePageLoginDevCommunity)** — Estudo prático de recriação de interfaces responsivas pixel-perfect utilizando HTML estruturado e CSS moderno.
 
 ---
+
+### 📈 Minha Atividade no GitHub
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Calebe005&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📱 Vamos nos conectar?
+
+* 📸 **Instagram:** [@calebe__wl](https://instagram.com/calebe__wl)
+* 💼 **LinkedIn:** [Calebe Walisson](https://www.linkedin.com/in/calebe-dev-12609438b/)
+
+---
+
+<div align="center">
+  <sub>“A criatividade é o combustível da minha jornada como desenvolvedor. Cada linha de código é uma oportunidade de inovar.” ✨🏽</sub>
+</div>
