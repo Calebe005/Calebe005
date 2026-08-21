@@ -56,5 +56,5 @@ Sou um desenvolvedor Full-Stack Junior focado em criar aplicações web completa
 <br />
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/calebe-dev-12609438b/" target="_blank">
+  <a href="https://www.linkedin.com/in/calebe-walisson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
