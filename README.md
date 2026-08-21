@@ -7,7 +7,7 @@
 <br />
 
 
-🚀 **Desenvolvedor Full-Stack Junior & UI/UX Designer** 📍 Baseado em João Pessoa - Paraíba, Brasil.  
+🚀 **Desenvolvedor Full-Stack Junior & UI/UX Designer** 📍 João Pessoa - Paraíba, Brasil.  
 💭 *"Transformando café em interfaces modernas e soluções funcionais de ponta a ponta."*
 
 ---
